@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, automation, cybersecurity, open source projects, learning and improving my skills
 - 🌱 I’m currently learning python, bash scripting, linux, and information security
 - 💞️ I’m looking to collaborate on anything you think I can help with!
-- 📫 How to reach me here on GitHub or on linked in at www.linkedin.com/in/winsor-c-2a478428b
+- 📫 How to reach me here on GitHub or email at winsc1@pm.me
 
 <!---
 winsorc/winsorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
